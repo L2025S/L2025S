@@ -2,7 +2,7 @@
 
 # 👋 Hej, jag är en javautvecklarstudent.
 
-## 🎯 Jag söker en LIA-plats (Lärande i arbete) v.46 2026 - v.22 2027. 
+## 🎯 Jag söker en LIA-plats (Lärande i arbete) v.46, 2026 - v.22, 2027. 
 
 - 📍 Plats: Stockholm <br>
 - 🎓 Bakgrund: [IT-Högskolan Stockholm] Från lärare till javautvecklare
