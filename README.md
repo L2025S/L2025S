@@ -1,8 +1,8 @@
 
 
-# 👋 Hej, jag är en javautvecklarstudent.
+# 👋 Hej, jag är en javautvecklare.
 
-## 🎯 Jag söker en LIA-plats (Lärande i arbete) v.46, 2026 - v.22, 2027. 
+## 🎯 Jag söker jobb
 
 - 📍 Plats: Stockholm <br>
 - 🎓 Bakgrund: [IT-Högskolan Stockholm] Från lärare till javautvecklare
@@ -16,16 +16,6 @@
     
 - 🔗 [Länk till livedemo]https://www.youtube.com/shorts/IODOvPoAqUI
 - 📁 [Länk till GitHub-repository]https://github.com/L2025S/webshop-gr3
-
-
-
-### [Projekt 2: Spring Boot Food]
-    [Appen hanterar ett livsmedelslager med full CRUD‑funktionalitet, validering och molnbaserad drift.]
-- 🔗 [Länk till livedemo]https://www.youtube.com/watch?v=G6PMJsmGoBU
-- 📁 [Länk till GitHub-repository]https://github.com/L2025S/spring-boot-food
-
-
-
 
 
 
